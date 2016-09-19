@@ -1,3 +1,5 @@
 *.zip
 week3/*.zip
-week3/amazon_baby.gl
+week3/amazon*
+week4/people*
+week4/.ip*
